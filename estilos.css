@@ -1,0 +1,35 @@
+h1{
+	font-size: 200px;
+	color:#FF1493;
+	font-family:Comic;
+	font-weight:50;
+}
+.lol{
+	background:#ADFF2F;
+	font-size:40px;
+}
+li h2{
+	font-size:50px;
+	color:#8B008B;
+	font-family:Comic;
+	font-weight:50;
+}
+i{
+	font-size:20px;
+	color:#00FF7F;
+	font-family:Comic;
+	font-weight:50;
+}
+#labo{
+	text-align: center;
+}
+ol p{
+	font-size:20px;
+	color:#00FFFF;
+	font-family:Comic;
+	font-weight:50;
+}
+h3{
+	border-color:#DC143C;
+	border-top-style: dotted;
+}
